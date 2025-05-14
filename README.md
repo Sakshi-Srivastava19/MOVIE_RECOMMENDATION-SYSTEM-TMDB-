@@ -9,7 +9,8 @@ A simple and interactive **Movie Recommender Web App** built with **Python**, **
 
 ## 📸 Demo
 
-![Demo Screenshot]("Screenshot 2025-05-14 233111.png")
+![screenshot] (Screenshot 2025-05-14 233111.png)
+
 
 
 ---
