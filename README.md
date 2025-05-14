@@ -9,8 +9,8 @@ A simple and interactive **Movie Recommender Web App** built with **Python**, **
 
 ## 📸 Demo
 
-![Demo Screenshot](!Screenshot 2025-05-14 233111.png)
-)
+![Demo Screenshot]("https://github.com/Sakshi-Srivastava19/MOVIE_RECOMMENDATION-SYSTEM-TMDB-/blob/main/Screenshot%202025-05-14%20233111.png")
+
 
 ---
 
